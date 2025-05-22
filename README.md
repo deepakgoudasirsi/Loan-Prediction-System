@@ -97,7 +97,7 @@ The Random Forest Classifier achieves:
 - Recall: 0.83
 - F1-Score: 0.85
 
-## Author
+## Contact
 
 - **Deepak Gouda**
 - GitHub: [@deepakgoudasirsi](https://github.com/deepakgoudasirsi)
